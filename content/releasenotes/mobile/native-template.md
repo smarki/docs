@@ -20,6 +20,7 @@ For more information on native mobile app development, see the [native-template 
 
 ### Breaking Change
 
+* Breaks comaptibility with Native Builder v3.0.0 or earlier.
 * The new keyboard-avoiding behavior may introduce visual artifacts for apps built against Mendix Studio Pro versions earlier than 8.5.0.
 
 ## 2.0.2
